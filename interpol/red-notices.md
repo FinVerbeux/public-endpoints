@@ -1,3 +1,11 @@
+### Méthode
+GET
+
+### Auth
+❌ Aucune
+
+### Description
+Retourne la liste des Red Notices publiques publiées par Interpol.
 
 ## Endpoint principal
 
