@@ -9,6 +9,8 @@ GET
 Retourne la liste des pays utilisés dans les formulaires et filtres
 des notices Interpol.
 
+[https://www.interpol.int/notices/data/countries](https://www.interpol.int/notices/data/countries)
+
 ### Exemple de réponse
 ```json
 [
